@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Personal Project for Learning Reaction
+## Personal Project for Learning React
 
 
 ## 2018-12-02 22:45
