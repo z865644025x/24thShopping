@@ -1,3 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.todoList{
+	padding: 10px;
+}
+
 .App {
   text-align: center;
 }
